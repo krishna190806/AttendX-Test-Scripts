@@ -12,3 +12,4 @@ This repository contains test scripts for the AttendX student attendance applica
 - Git
 - GitHub
 - Visual Studio Code
+Updated directly on GitHub to practice git pull.
